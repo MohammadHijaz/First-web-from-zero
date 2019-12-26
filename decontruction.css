@@ -1,0 +1,97 @@
+body {
+    text-decoration: rgb(red, green, blue);
+    background-color: lightblue
+}
+#first-paragraph {
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 1em 1em 2em 2em;
+    border: thick;
+    border-color: tomato;
+    font-size: x-large;
+}
+a {
+text-align: center;
+font-size: larger;
+position: relative;
+left: 750px;
+bottom: 23em;
+}
+
+
+
+.list {
+width: 400px;
+height: 300px;
+
+margin: 20px 0px 0px 0px;
+
+padding: 20px 20px ; 
+
+border: 15px solid green;
+
+
+
+
+
+ 
+    
+    
+    
+    
+    
+    
+    background-color: white;
+}
+.BOX2 {
+width: 300px;
+background-color: wheat;
+margin-right: 30em;
+margin-top: 0em;
+margin-bottom: 10em;
+
+  margin-left: 35em;
+padding: 15px 15px;
+  position: absolute;
+  top: 215px;
+  border : 13px double greenyellow
+}
+img {
+position: relative;
+margin-top: 30px;
+height: 280px;
+width: 280px;
+left : 950px;
+bottom: 26em;
+
+}
+.BOX3 {
+width: 300px;
+background-color: skyblue;
+margin-right: 30em;
+margin-top: 0em;
+margin-bottom: 10em;
+
+  margin-left: 35em;
+padding: 15px 15px;
+  position: absolute;
+  top: 400px;
+  border : 13px dotted violet
+
+}
+form {
+color: cyan;
+
+position: relative;
+bottom: 15em;
+width: 400px;
+background-color:cornsilk;
+font-size: large;
+
+}
+#Submit {
+  width: 30px;
+  height: 30px;
+  
+  font-size: larger;
+}

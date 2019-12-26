@@ -1,0 +1,2 @@
+This project is a web page that reflects my ideas on The Odin Project, I have only used HTML/CSS so the page doesn't really do anything it's just for looks.This is my first web page and this is my 2nd day with HTML/CSS so the page isn't the best but I gave it my best.
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
